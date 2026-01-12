@@ -1,5 +1,5 @@
 {
-  "version": 101,
+  "version": 102,
   "questions": [
     {
       "type": "MULTIPLE_CHOICE",
@@ -11,14 +11,6 @@
       "level": 1,
       "quarter": 1,
       "questionID": "gr5_math_0001"
-    },
-    {
-      "type": "STORY",
-      "topic": "Reading",
-      "grade": "Grade 5",
-      "text": "...",
-      "options": [], 
-      "correctIndex": 0
     }
   ]
 }
