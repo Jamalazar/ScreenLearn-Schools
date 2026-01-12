@@ -11,6 +11,26 @@
       "level": 1,
       "quarter": 1,
       "questionID": "gr4_math_0001"
-    }
+    },
+    {
+    "topic": "Science",
+    "grade": "Grade 4",
+    "reportingCategory": "Earth and Space Science",
+    "benchmark": "SC.4.E.5.4",
+    "quarter": 3,
+    "level": 2,
+    "skillTag": "causeDayNight",
+    "text": "What is the primary reason we experience the cycle of day and night on Earth?",
+    "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_earth_rotation_day_night.png",
+    "explanation": "Day and night are caused by Earth rotating (spinning) on its axis. One side faces the Sun (Day) while the other faces away (Night).",
+    "options": [
+      "The Sun goes around the Earth.",
+      "The Earth orbits the Sun.",
+      "The Moon blocks the Sun.",
+      "The Earth rotates on its axis."
+    ],
+    "correctIndex": 3,
+    "type": "MULTIPLE_CHOICE"
+  }
   ]
 }
