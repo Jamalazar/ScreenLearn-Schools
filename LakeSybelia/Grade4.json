@@ -1,1 +1,15 @@
-
+{
+  "version": 201,
+  "questions": [
+    {
+      "type": "MULTIPLE_CHOICE",
+      "topic": "Math",
+      "grade": "Grade 4",
+      "text": "LAKE SYBELIA: What is the mascot? (Grade 4)",
+      "options": ["Dolphin", "Tiger", "Eagle", "Shark"],
+      "correctIndex": 0,
+      "level": 1,
+      "quarter": 1
+    }
+  ]
+}
