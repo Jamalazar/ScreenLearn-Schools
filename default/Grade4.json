@@ -1,5 +1,5 @@
 {
-  "version": 106,
+  "version": 107,
   "questions": [
     {
       "type": "MULTIPLE_CHOICE",
@@ -40,7 +40,7 @@
     "quarter": 3,
     "level": 2,
     "skillTag": "causeDayNight",
-    "text": "Test answer The Moon blocks the Sun. ",
+    "text": "Test answer The Moon blocks the Sun. new 107 ",
     "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_earth_rotation_day_night.png",
     "explanation": "Day and night are caused by Earth rotating (spinning) on its axis. One side faces the Sun (Day) while the other faces away (Night).",
     "options": [
