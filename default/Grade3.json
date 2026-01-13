@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "type": "TEXT",
+      "topic": "English Language Arts",
+      "grade": "Grade 3",
+      "reportingCategory": "Vocabulary",
+      "benchmark": "ELA.4.V.1.1",
+      "quarter": 1,
+      "level": 2,
+      "text": "Type the word 'Beautiful' correctly.",
+      "imageResource": null,
+      "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
+      "options": [],
+      "correctIndex": 0,
+      "typingAnswer": "Beautiful",
+      "questionID": "gr3_ela_0002"
+    },
+    {
+      "topic": "English Language Arts",
+      "grade": "Grade 3",
+      "reporting_category": "Multisyllabic Words, Morphemes",
+      "benchmark": "ELA.4.F.1.3.a",
+      "quarter": 1,
+      "level": 2,
+      "difficulty": 1,
+      "text": "Which word has three syllables?",
+      "imageResource": null,
+      "options": [
+        "computer",
+        "desk",
+        "train",
+        "lamp"
+      ],
+      "correctIndex": 0,
+      "type": "MULTIPLE_CHOICE",
+      "questionID": "gr3_ela_0001",
+      "bucket": "d1"
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "explanation": "Compare the value of Group A (hundreds) to Group B (tens). Consider how many times you would need to multiply 20 to get 200, or think about the place value shift from the tens place to the hundreds place.",
+      "correctIndex": 2,
+      "options": [
+        "Group A is 100 times the value of Group B.",
+        "Group B is 10 times the value of Group A.",
+        "Group A is 10 times the value of Group B.",
+        "Group B is 1/100 the value of Group A."
+      ],
+      "difficulty": 2,
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_base_ten_comparison.png",
+      "text": "Look at the base-ten blocks in the image. Group A represents 200. Group B represents 20. Which statement is true?",
+      "level": 3,
+      "quarter": 1,
+      "benchmark": "MA.4.NSO.1.1",
+      "reportingCategory": "Number Sense and Operations with Whole Numbers",
+      "grade": "Grade 3",
+      "topic": "Math",
+      "bucket": "d2",
+      "questionID": "gr3_math_0001"
+    }
+  ]
+}
