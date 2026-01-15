@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "questions": [
     {
       "type": "TEXT",
@@ -37,6 +37,28 @@
       "type": "MULTIPLE_CHOICE",
       "questionID": "gr6_ela_0001",
       "bucket": "d1"
+    },
+	{
+      "type": "MULTIPLE_CHOICE",
+      "explanation": "Compare the value of Group A (hundreds) to Group B (tens). Consider how many times you would need to multiply 20 to get 200, or think about the place value shift from the tens place to the hundreds place.",
+      "correctIndex": 2,
+      "options": [
+        "Group A is 100 times the value of Group B.",
+        "Group B is 10 times the value of Group A.",
+        "Group A is 10 times the value of Group B.",
+        "Group B is 1/100 the value of Group A."
+      ],
+      "difficulty": 2,
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_base_ten_comparison.png",
+      "text": "Look at the base-ten blocks in the image. Group A represents 200. Group B represents 20. Which statement is true?",
+      "level": 3,
+      "quarter": 1,
+      "benchmark": "MA.4.NSO.1.1",
+      "reportingCategory": "Number Sense and Operations with Whole Numbers",
+      "grade": "Grade 6",
+      "topic": "Math",
+      "bucket": "d2",
+      "questionID": "gr5_math_0001"
     },
     {
       "type": "MULTIPLE_CHOICE",
@@ -154,10 +176,237 @@
       "correctIndex": 0,
       "typingAnswer": "Beautiful",
       "questionID": "gr6_ela_002"
+    },
+	{
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "What year does the story take place?",
+      "options": [
+        "2050",
+        "2020",
+        "3000",
+        "1999"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0013"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "What is the name of the Mars colony?",
+      "options": [
+        "Ares Base",
+        "Red Rock City",
+        "Luna Outpost",
+        "Mars Town"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0009"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "What is Dr. Aris Thorne's job?",
+      "options": [
+        "Head Botanist",
+        "Pilot",
+        "Doctor",
+        "Engineer"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0008"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "Why is it hard to grow plants on Mars?",
+      "options": [
+        "It is freezing and has thin air",
+        "It is too hot",
+        "There is too much water",
+        "The soil is purple"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0019"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "Where do the plants live?",
+      "options": [
+        "Inside a glass dome",
+        "In a dark cave",
+        "Outside on the ground",
+        "On a spaceship"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0016"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "Where did the alarm go off?",
+      "options": [
+        "Greenhouse 3",
+        "The Kitchen",
+        "The Bedroom",
+        "Greenhouse 1"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0015"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "What broke inside the greenhouse?",
+      "options": [
+        "The heating system",
+        "The water pipe",
+        "The glass roof",
+        "The door"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0003"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "What did Aris grab before running?",
+      "options": [
+        "His toolbox",
+        "His lunch",
+        "A spacesuit",
+        "A shovel"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0005"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "How much time did he have to fix it?",
+      "options": [
+        "Twenty minutes",
+        "One hour",
+        "Five minutes",
+        "Two days"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0002"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "What crop was growing in the greenhouse?",
+      "options": [
+        "Tomatoes",
+        "Potatoes",
+        "Corn",
+        "Strawberries"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0004"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "How did he fix the problem?",
+      "options": [
+        "He reconnected a power wire",
+        "He poured water on it",
+        "He replaced the battery",
+        "He closed the window"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0001"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 6",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "mars_dome",
+      "text": "What did the crew eat to celebrate?",
+      "options": [
+        "A fresh salad",
+        "Pizza",
+        "Ice Cream",
+        "Space Paste"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0006"
     }
   ]
 
 }
-
 
 
