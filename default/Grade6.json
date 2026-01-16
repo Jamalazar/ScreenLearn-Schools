@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "questions": [
     {
       "type": "TEXT",
@@ -566,9 +566,10 @@
       "Solar Power",
       "Coal",
       "Wind Energy",
-      "Natural Gas"
+      "Natural Gas",
+		"Testing 5th with correct answer this as well"
     ],
-    "correctIndices": [0, 2],
+    "correctIndices": [0, 2, 4],
     "correctIndex": -1,
     "explanation": "Solar and Wind are renewable because they replenish naturally. Coal and Natural Gas are fossil fuels and are non-renewable.",
     "level": 3,
@@ -584,7 +585,8 @@
       "Joyful",
       "Anxious",
       "Content",
-      "Gloomy"
+      "Gloomy",
+		"testing 5th"
     ],
     "correctIndices": [0, 2],
     "correctIndex": -1,
@@ -595,6 +597,7 @@
   ]
 
 }
+
 
 
 
