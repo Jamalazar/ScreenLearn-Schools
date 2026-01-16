@@ -1,7 +1,23 @@
 {
-  "version": 16,
+  "version": 17,
   "questions": [
     {
+      "type": "TEXT",
+      "topic": "Language Arts",
+      "grade": "Grade 6",
+      "reportingCategory": "Vocabulary",
+      "benchmark": "ELA.4.V.1.1",
+      "quarter": 1,
+      "level": 2,
+      "text": "Type below quote:\n\n🌟 “Every mistake is proof that you’re learning something new.” 🌟",
+      "imageResource": null,
+      "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
+      "options": [],
+      "correctIndex": 0,
+      "typingAnswer": "Beautiful",
+      "questionID": "gr6_ela_0002"
+    },
+	  {
       "type": "TEXT",
       "topic": "Language Arts",
       "grade": "Grade 6",
@@ -15,7 +31,7 @@
       "options": [],
       "correctIndex": 0,
       "typingAnswer": "Beautiful",
-      "questionID": "gr6_ela_0002"
+      "questionID": "gr6_elas_0002"
     },
     {
       "topic": "Math",
@@ -25,7 +41,7 @@
       "quarter": 1,
       "level": 2,
       "difficulty": 1,
-      "text": "Which word has three syllables?",
+      "text": "Type below quote:\n\n🌟 “Every mistake is proof that you’re learning something new.” 🌟",
       "imageResource": null,
       "options": [
         "computer",
@@ -408,6 +424,7 @@
   ]
 
 }
+
 
 
 
