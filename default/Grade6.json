@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "questions": [
     {
       "type": "TEXT",
@@ -25,7 +25,7 @@
       "benchmark": "ELA.4.V.1.1",
       "quarter": 1,
       "level": 2,
-      "text": "Type below quote. /n /n 🌟 “Every mistake is proof that you’re learning something new.” 🌟",
+      "text": "Type below quote:\n🌟 “Every mistake is proof that you’re learning something new.” 🌟",
       "imageResource": null,
       "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
       "options": [],
@@ -424,6 +424,7 @@
   ]
 
 }
+
 
 
 
