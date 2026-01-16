@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "questions": [
     {
       "type": "TEXT",
@@ -484,10 +484,119 @@
       "level": 3,
       "quarter": 1,
       "questionID": "gr5_reading_0006"
-    }
+    },
+	  {
+    "questionID": "gr6_math_multi_001",
+    "type": "MULTI_SELECT",
+    "topic": "Science",
+    "grade": "Grade 6",
+    "text": "Select all the numbers that are prime numbers.",
+    "options": [
+      "2",
+      "9",
+      "13",
+      "15"
+    ],
+    "correctIndices": [0, 2],
+    "correctIndex": -1,
+    "explanation": "2 and 13 are prime numbers because they only have two factors: 1 and themselves. 9 (3×3) and 15 (3×5) are composite.",
+    "level": 3,
+    "quarter": 1
+  },
+  {
+    "questionID": "gr6_sci_multi_002",
+    "type": "MULTI_SELECT",
+    "topic": "Science",
+    "grade": "Grade 6",
+    "text": "Which of the following are examples of renewable energy sources?",
+    "options": [
+      "Solar Power",
+      "Coal",
+      "Wind Energy",
+      "Natural Gas"
+    ],
+    "correctIndices": [0, 2],
+    "correctIndex": -1,
+    "explanation": "Solar and Wind are renewable because they replenish naturally. Coal and Natural Gas are fossil fuels and are non-renewable.",
+    "level": 3,
+    "quarter": 1
+  },
+  {
+    "questionID": "gr6_ela_multi_003",
+    "type": "MULTI_SELECT",
+    "topic": "Science",
+    "grade": "Grade 6",
+    "text": "Select all the words that are synonyms for 'Happy'.",
+    "options": [
+      "Joyful",
+      "Anxious",
+      "Content",
+      "Gloomy"
+    ],
+    "correctIndices": [0, 2],
+    "correctIndex": -1,
+    "explanation": "Joyful and Content have similar meanings to Happy. Anxious means worried, and Gloomy means sad.",
+    "level": 2,
+    "quarter": 1
+  },
+	  {
+    "questionID": "gr6_math_multi_004",
+    "type": "MULTI_SELECT",
+    "topic": "Science",
+    "grade": "Grade 6",
+    "text": "Select all the numbers that are prime numbers.",
+    "options": [
+      "2",
+      "9",
+      "13",
+      "15"
+    ],
+    "correctIndices": [0, 2],
+    "correctIndex": -1,
+    "explanation": "2 and 13 are prime numbers because they only have two factors: 1 and themselves. 9 (3×3) and 15 (3×5) are composite.",
+    "level": 3,
+    "quarter": 1
+  },
+  {
+    "questionID": "gr6_sci_multi_005",
+    "type": "MULTI_SELECT",
+    "topic": "Science",
+    "grade": "Grade 6",
+    "text": "Which of the following are examples of renewable energy sources?",
+    "options": [
+      "Solar Power",
+      "Coal",
+      "Wind Energy",
+      "Natural Gas"
+    ],
+    "correctIndices": [0, 2],
+    "correctIndex": -1,
+    "explanation": "Solar and Wind are renewable because they replenish naturally. Coal and Natural Gas are fossil fuels and are non-renewable.",
+    "level": 3,
+    "quarter": 1
+  },
+  {
+    "questionID": "gr6_ela_multi_006",
+    "type": "MULTI_SELECT",
+    "topic": "Science",
+    "grade": "Grade 6",
+    "text": "Select all the words that are synonyms for 'Happy'.",
+    "options": [
+      "Joyful",
+      "Anxious",
+      "Content",
+      "Gloomy"
+    ],
+    "correctIndices": [0, 2],
+    "correctIndex": -1,
+    "explanation": "Joyful and Content have similar meanings to Happy. Anxious means worried, and Gloomy means sad.",
+    "level": 2,
+    "quarter": 1
+  }
   ]
 
 }
+
 
 
 
