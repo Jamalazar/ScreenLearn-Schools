@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "questions": [
     {
       "type": "TEXT",
@@ -9,7 +9,7 @@
       "benchmark": "ELA.4.V.1.1",
       "quarter": 1,
       "level": 2,
-      "text": "Type the word 'Beautiful' correctly.",
+      "text": "Type below quote. /n /n 🌟 “Every mistake is proof that you’re learning something new.” 🌟",
       "imageResource": null,
       "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
       "options": [],
@@ -408,5 +408,6 @@
   ]
 
 }
+
 
 
