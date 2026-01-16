@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "questions": [
     {
       "type": "TEXT",
@@ -110,8 +110,7 @@
       "options": [
         "computer",
         "desk",
-        "train",
-        "lamp"
+        "train"
       ],
       "correctIndex": 0,
       "type": "MULTIPLE_CHOICE",
@@ -596,6 +595,7 @@
   ]
 
 }
+
 
 
 
