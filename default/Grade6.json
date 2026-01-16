@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "questions": [
     {
       "type": "TEXT",
@@ -16,6 +16,22 @@
       "correctIndex": 0,
       "typingAnswer": "Every mistake is proof that you’re learning something new.",
       "questionID": "gr6_ela_0002"
+    },
+	  {
+      "type": "QUOTE",
+      "topic": "Quotes",
+      "grade": "Grade 6",
+      "reportingCategory": "Vocabulary",
+      "benchmark": "ELA.4.V.1.1",
+      "quarter": 1,
+      "level": 2,
+      "text": "🌟 “Every mistake is proof that you’re learning something new.” 🌟",
+      "imageResource": null,
+      "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
+      "options": [],
+      "correctIndex": 0,
+      "typingAnswer": "Every mistake is proof that you’re learning something new.",
+      "questionID": "gr6_quotes_0001"
     },
 	  {
       "type": "TEXT",
@@ -424,6 +440,7 @@
   ]
 
 }
+
 
 
 
