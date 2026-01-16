@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "questions": [
     {
       "type": "TEXT",
@@ -30,8 +30,56 @@
       "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
       "options": [],
       "correctIndex": 0,
-      "typingAnswer": "Every mistake is proof that you’re learning something new.",
+      "typingAnswer": "Test",
       "questionID": "gr6_quotes_0001"
+    },
+	  {
+      "type": "QUOTE",
+      "topic": "Quotes",
+      "grade": "Grade 6",
+      "reportingCategory": "Vocabulary",
+      "benchmark": "ELA.4.V.1.1",
+      "quarter": 1,
+      "level": 2,
+      "text": "🌟 “Every mistake is proof that you’re learning something new.” 🌟",
+      "imageResource": null,
+      "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
+      "options": [],
+      "correctIndex": 0,
+      "typingAnswer": "Test",
+      "questionID": "gr6_quotes_0002"
+    },
+	  {
+      "type": "QUOTE",
+      "topic": "Quotes",
+      "grade": "Grade 6",
+      "reportingCategory": "Vocabulary",
+      "benchmark": "ELA.4.V.1.1",
+      "quarter": 1,
+      "level": 2,
+      "text": "🌟 “Every mistake is proof that you’re learning something new.” 🌟",
+      "imageResource": null,
+      "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
+      "options": [],
+      "correctIndex": 0,
+      "typingAnswer": "Test",
+      "questionID": "gr6_quotes_0003"
+    },
+	  {
+      "type": "QUOTE",
+      "topic": "Quotes",
+      "grade": "Grade 6",
+      "reportingCategory": "Vocabulary",
+      "benchmark": "ELA.4.V.1.1",
+      "quarter": 1,
+      "level": 2,
+      "text": "🌟 “Every mistake is proof that you’re learning something new.” 🌟",
+      "imageResource": null,
+      "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
+      "options": [],
+      "correctIndex": 0,
+      "typingAnswer": "Test",
+      "questionID": "gr6_quotes_0004"
     },
 	  {
       "type": "TEXT",
@@ -440,6 +488,7 @@
   ]
 
 }
+
 
 
 
