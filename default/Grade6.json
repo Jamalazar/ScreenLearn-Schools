@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "questions": [
     {
       "type": "TEXT",
@@ -14,7 +14,7 @@
       "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
       "options": [],
       "correctIndex": 0,
-      "typingAnswer": "Beautiful",
+      "typingAnswer": "Every mistake is proof that you’re learning something new.",
       "questionID": "gr6_ela_0002"
     },
 	  {
@@ -424,6 +424,7 @@
   ]
 
 }
+
 
 
 
