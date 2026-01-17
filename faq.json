@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "items": [
     {
       "question": "I forgot my PIN. What do I do?",
@@ -16,6 +16,10 @@
     {
       "question": "A question has a mistake. How do I report it?",
       "answer": "Please take a screenshot of the question (showing the ID in the bottom corner) and email it to our support team at support@screenlearn.app."
+    },
+    {
+      "question": "Is this test,
+      "answer": "Yes"
     }
   ]
 }
