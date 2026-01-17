@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "question": "I forgot my PIN. What do I do?",
+      "answer": "Tap the 'Forgot PIN?' link on the lock screen. You will be asked to answer the Security Question you set up in the 'Security & Recovery' section."
+    },
+    {
+      "question": "Can I turn off specific subjects?",
+      "answer": "Yes! Scroll up to the 'Focus Subjects' section. You can toggle off any subject (like Math or Reading) that you don't want to appear on the lock screen."
+    },
+    {
+      "question": "Why doesn't the app lock immediately?",
+      "answer": "The app uses a 'Lock Frequency' timer (e.g., 15 minutes) so it doesn't interrupt your child too often. You can adjust this timer in the settings above."
+    },
+    {
+      "question": "A question has a mistake. How do I report it?",
+      "answer": "Please take a screenshot of the question (showing the ID in the bottom corner) and email it to our support team at support@screenlearn.app."
+    }
+  ]
+}
