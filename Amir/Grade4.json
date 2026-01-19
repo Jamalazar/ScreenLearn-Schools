@@ -1,5 +1,5 @@
 {
-  "version": 100,
+  "version": 101,
   "questions": [
     {
       "topic": "Math",
@@ -72,7 +72,7 @@
       "quarter": 1,
       "level": 3,
       "text": "Look at the base-ten blocks in the image. Group A represents 200. Group B represents 20. Which statement is true?",
-      "imageResource": "gr4_math_nso_base_ten_comparison",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_base_ten_comparison.png",
       "difficulty": 2,
       "options": [
         "Group A is 100 times the value of Group B.",
@@ -156,7 +156,7 @@
       "quarter": 1,
       "level": 5,
       "text": "Examine the Place Value Chart. If you move a disk from the Tens place to the Hundreds place, how does the value of that disk change?",
-      "imageResource": "gr4_math_nso_place_value_shift",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_place_value_shift.png",
       "difficulty": 3,
       "options": [
         "It decreases to 1/10 of its original value.",
@@ -324,7 +324,7 @@
       "quarter": 1,
       "level": 3,
       "text": "Which number matches the expanded form shown in the image?",
-      "imageResource": "gr4_math_nso_expanded_form_cards",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_expanded_form_cards.png",
       "difficulty": 2,
       "options": [
         "309,504",
@@ -471,7 +471,7 @@
       "quarter": 1,
       "level": 2,
       "text": "Look at the number line. Which number best represents the location of Point A?",
-      "imageResource": "gr4_math_nso_number_line_estimation",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_number_line_estimation.png",
       "difficulty": 1,
       "options": [
         "510,000",
@@ -597,7 +597,7 @@
       "quarter": 1,
       "level": 2,
       "text": "Using the plot on the number line, which letter represents the number 250,000?",
-      "imageResource": "gr4_math_nso_number_line_intervals",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_number_line_intervals.png",
       "difficulty": 1,
       "options": [
         "Point W",
@@ -702,7 +702,7 @@
       "quarter": 1,
       "level": 3,
       "text": "Look at the number line in the diagram. When rounding to the nearest ten, what is the value of Point A?",
-      "imageResource": "gr4_math_nso_rounding_number_line",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_rounding_number_line.png",
       "difficulty": 2,
       "options": [
         "40",
@@ -807,7 +807,7 @@
       "quarter": 1,
       "level": 3,
       "text": "Look at the rounding hill diagram. Where would the ball roll if the number is 1,230 and we are rounding to the nearest hundred?",
-      "imageResource": "gr4_math_nso_rounding_hill_1200_1300",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_rounding_hill_1200_1300.png",
       "difficulty": 2,
       "options": [
         "It would roll back to 1,200.",
@@ -870,7 +870,7 @@
       "quarter": 3,
       "level": 2,
       "text": "Identify the decimal represented by Point P on the number line.",
-      "imageResource": "gr4_math_nso_decimal_number_line_point_p",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_decimal_number_line_point_p.png",
       "difficulty": 1,
       "options": [
         "0.5",
@@ -954,7 +954,7 @@
       "quarter": 3,
       "level": 2,
       "text": "Which decimal number are greater than the one shown by the blocks? Each cube represents 1 hundredth.",
-      "imageResource": "gr4_math_nso_decimal_grid_comparison",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_decimal_grid_comparison.png",
       "difficulty": 1,
       "options": [
         "0.08",
@@ -1078,7 +1078,7 @@
       "quarter": 2,
       "level": 2,
       "text": "Which area model correctly represents the multiplication expression 15 x 13?",
-      "imageResource": "gr4_math_nso_area_model_15x13",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_area_model_15x13.png",
       "options": [
         "Model A showing (10+5) x (10+3)",
         "Model B showing (10+5) x (10+5)",
@@ -1116,7 +1116,7 @@
       "quarter": 2,
       "level": 5,
       "text": "Look at the student's work in the image. They calculated 52 x 14 and got 260. What error did they likely make?",
-      "imageResource": "gr4_math_nso_mult_error_placeholder",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_mult_error_placeholder.png",
       "options": [
         "They forgot to place the zero placeholder in the second partial product.",
         "They multiplied 5 x 1 incorrectly.",
@@ -1439,7 +1439,7 @@
       "quarter": 2,
       "level": 3,
       "text": "A truck carries 4,000 pounds of cargo. It makes 6 trips. How many total pounds of cargo does the truck transport?",
-      "imageResource": "gr4_math_truck_cargo_math",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_truck_cargo_math.png",
       "explanation": "Recognize that 4,000 represents 4 groups of a thousand. Multiply the single digit 4 by 6, and remember that your result still represents groups of 'thousands.'",
       "options": [
         "2,400 pounds",
@@ -1629,7 +1629,7 @@
       "quarter": 3,
       "level": 2,
       "text": "Which equation represents the sum shown by the base-ten blocks?",
-      "imageResource": "gr4_math_add_decimals_blocks",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_add_decimals_blocks.png",
       "explanation": "Identify the value of each group of blocks. A flat usually represents one whole (1) and a rod represents one-tenth (0.1). Count the ones and tenths in each group to form the addition equation.",
       "options": [
         "1.3 + 1.2 = 2.5",
@@ -1762,7 +1762,7 @@
       "quarter": 3,
       "level": 3,
       "text": "Use the visual model to determine the result of 5.07 – 2.06.",
-      "imageResource": "gr4_math_subtract_decimals_grid",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_subtract_decimals_grid.png",
       "explanation": "Subtract the whole number parts (5 - 2) and the decimal parts (0.07 - 0.06) separately. Then combine those results to get the final answer.",
       "options": [
         "3.01",
@@ -1857,7 +1857,7 @@
       "quarter": 3,
       "level": 3,
       "text": "What is the total 1.42 + 3.11?",
-      "imageResource": "gr4_math_add_decimals_diagram_06_03",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_add_decimals_diagram_06_03.png",
       "explanation": "To add these decimals, line up the decimal points vertically.  Add the hundredths column first (2 + 1), then the tenths column (4 + 1), and finally the ones column (1 + 3). Place the decimal point in the sum directly below the others.",
       "options": [
         "4.53",
@@ -1914,7 +1914,7 @@
       "quarter": 3,
       "level": 2,
       "text": "Which expression matches the base-ten block model shown?",
-      "imageResource": "gr4_math_nso_add_decimals_blocks_1_3_plus_1_2",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_add_decimals_blocks_1_3_plus_1_2.png",
       "explanation": "Analyze the two separate groups of blocks. Count the 'flats' (wholes) and 'rods' (tenths) in the first group to find the first number. Do the same for the second group. Select the expression that shows these two values being added.",
       "options": [
         "1.3 + 1.2",
@@ -2009,7 +2009,7 @@
       "quarter": 3,
       "level": 3,
       "text": "What is the difference shown by the base-ten block model where crossed-out blocks represent subtraction?",
-      "imageResource": "gr4_math_nso_subtract_decimals_blocks_2_87_minus_1_4",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_subtract_decimals_blocks_2_87_minus_1_4.png",
       "explanation": "First, identify the total value of the blocks before any were crossed out. Next, count the value of the blocks that have an 'X' over them. Subtract the value of the crossed-out blocks from the starting total.",
       "options": [
         "1.47",
@@ -2142,7 +2142,7 @@
       "quarter": 3,
       "level": 3,
       "text": "Using the number line diagram, what is the result of the jumps shown starting at 2.5 and moving right by 1.5?",
-      "imageResource": "gr4_math_nso_decimal_number_line_jumps",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_nso_decimal_number_line_jumps.png",
       "explanation": "Identify the starting point on the number line. Follow the direction and size of the 'jumps'. Moving to the right indicates addition. Add the value of the jump (1.5) to the starting number (2.5).",
       "options": [
         "4.0",
@@ -2427,7 +2427,7 @@
       "quarter": 2,
       "level": 5,
       "text": "Maria multiplied 34 by 26 using partial products. She calculated (30 x 20) + (4 x 6) and got 624. Why is her answer incorrect?",
-      "imageResource": "gr4_math_partial_products_error",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_partial_products_error.png",
       "explanation": "In double-digit multiplication, every digit of the first number must be multiplied by every digit of the second number.  Maria missed the 'inner' and 'outer' products (30 x 6 and 4 x 20).",
       "options": [
         "She added instead of multiplying.",
@@ -2930,7 +2930,7 @@
       "level": 5,
       "skillTag": "errorAnalysisMixedOps",
       "text": "Jason claims that 12 + 3 = 5 x 4 is a true equation. Why is Jason incorrect?",
-      "imageResource": "gr4_math_error_analysis_seesaw",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_error_analysis_seesaw.png",
       "explanation": "Calculate both sides to check for equality. 12 + 3 equals 15, while 5 x 4 equals 20.  Because the values are different, the equation is not balanced.",
       "options": [
         "He is correct; the equation is true.",
@@ -3130,7 +3130,7 @@
       "level": 5,
       "skillTag": "errorAnalysisEq",
       "text": "A baker has 54 cookies. She puts 9 cookies in each box. She wants to find how many boxes (b) she needs. She writes the equation 54 x 9 = b. Why is this equation incorrect?",
-      "imageResource": "gr4_math_cookies_boxing",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_cookies_boxing.png",
       "explanation": "Analyze what is happening to the total.  You are starting with a total (54) and separating it into equal groups of 9. This action represents division, not multiplication.",
       "options": [
         "It is correct; she needs to multiply to find the total.",
@@ -3210,7 +3210,7 @@
       "level": 3,
       "skillTag": "factorPairsWholeNumbers",
       "text": "Mrs. Lopez wants to arrange 24 desks in her classroom in equal rows. Which of the following is NOT a way she can arrange the desks?",
-      "imageResource": "gr4_math_factor_arrays_desks",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_factor_arrays_desks.png",
       "explanation": "Arranging desks into equal rows creates a rectangular array.  The number of rows must be a factor of 24. Find the option where the number of rows cannot multiply by a whole number to equal 24.",
       "options": [
         "4 rows of 6 desks",
@@ -3410,7 +3410,7 @@
       "level": 3,
       "skillTag": "factorPairsWholeNumbers",
       "text": "A marching band has 40 members. The band director wants to arrange them in a rectangular formation. Which formation is NOT possible?",
-      "imageResource": "gr4_math_marching_band_arrays",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_marching_band_arrays.png",
       "explanation": "For a rectangular formation, the number of rows must be a factor of the total members (40). [Image of factors of 40] Test each option by checking if 40 can be divided by that number of rows without a remainder.",
       "options": [
         "5 rows of 8 members",
@@ -3930,7 +3930,7 @@
       "level": 3,
       "skillTag": "patternWordProblems",
       "text": "Tom is stacking blocks. The top row has 1 block. The row below it has 3 blocks. The row below that has 5 blocks. If the pattern continues, how many blocks are in the 5th row?",
-      "imageResource": "gr4_math_block_pyramid",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_math_block_pyramid.png",
       "explanation": "Observe the pattern of odd numbers: 1, 3, 5. The rule is 'add 2' for each new row.  Count up two more steps: row 4 will have 7 blocks, and row 5 will have 9.",
       "options": [
         "7",
@@ -4610,7 +4610,7 @@
       "level": 3,
       "skillTag": "seasonalVisibility",
       "text": "Lucas loves looking at the constellation Orion. He can see it clearly in the winter, but he cannot find it in the summer. Why is this?",
-      "imageResource": "gr4_sci_earth_orbit_seasons",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_earth_orbit_seasons.png",
       "explanation": "As Earth revolves around the Sun, the night side of Earth faces different directions in space, making different stars visible in different seasons.",
       "options": [
         "Orion moves to the other side of the galaxy in summer.",
@@ -4650,7 +4650,7 @@
       "level": 3,
       "skillTag": "polarisStationary",
       "text": "A photographer takes a long-exposure photo of the night sky. The stars look like streaks moving in a circle, but the North Star (Polaris) is a single dot in the middle. Why?",
-      "imageResource": "gr4_sci_star_trails_polaris",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_star_trails_polaris.png",
       "explanation": "Polaris is located almost directly above Earth's North Pole (axis). As Earth spins, Polaris stays aligned with the axis, while other stars appear to circle it.",
       "options": [
         "Polaris is the only star that does not move in space.",
@@ -4730,7 +4730,7 @@
       "level": 5,
       "skillTag": "errorAnalysisMotion",
       "text": "Jenny says, \"The stars must be moving really fast because they go all the way across the sky in one night.\" What is the best way to correct Jenny's misunderstanding?",
-      "imageResource": "gr4_sci_merry_go_round_analogy",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_merry_go_round_analogy.png",
       "explanation": "The motion is apparent, not actual. It is Earth spinning that makes the stars look like they are moving, similar to trees looking like they move when you spin on a merry-go-round.",
       "options": [
         "Tell her that stars actually move very slowly.",
@@ -4830,7 +4830,7 @@
       "level": 3,
       "skillTag": "sequencePhases",
       "text": "Look at the diagram of the moon phases. Which phase is missing from the empty box?",
-      "imageResource": "gr4_sci_moon_phase_sequence_missing",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_moon_phase_sequence_missing.png",
       "explanation": "The sequence is New Moon -> Waxing Crescent -> First Quarter. The missing step between crescent and gibbous (half-lit on the right) is the First Quarter.",
       "options": [
         "Full Moon",
@@ -4850,7 +4850,7 @@
       "level": 3,
       "skillTag": "identifyPhases",
       "text": "Jamal sees a moon that looks like a thin sliver of light on the right side. What is this phase called?",
-      "imageResource": "gr4_sci_waxing_crescent",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_waxing_crescent.png",
       "explanation": "A thin sliver of light is called a crescent. Since it is on the right side (growing), it is a Waxing Crescent.",
       "options": [
         "Waxing Gibbous",
@@ -4890,7 +4890,7 @@
       "level": 3,
       "skillTag": "predictNextPhase",
       "text": "The moon is currently in its First Quarter phase. What phase will come next in the cycle?",
-      "imageResource": "gr4_sci_first_quarter_moon",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_first_quarter_moon.png",
       "explanation": "The cycle grows from First Quarter (half full) to Waxing Gibbous (more than half full) before reaching Full Moon.",
       "options": [
         "Waxing Crescent",
@@ -4970,7 +4970,7 @@
       "level": 2,
       "skillTag": "causeDayNight",
       "text": "What is the primary reason we experience the cycle of day and night on Earth?",
-      "imageResource": "gr4_sci_earth_rotation_day_night",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_earth_rotation_day_night.png",
       "explanation": "Day and night are caused by Earth rotating (spinning) on its axis. One side faces the Sun (Day) while the other faces away (Night).",
       "options": [
         "The Sun goes around the Earth.",
@@ -5070,7 +5070,7 @@
       "level": 3,
       "skillTag": "causeDayNight",
       "text": "It is daytime in Florida, but it is nighttime in Japan. Why?",
-      "imageResource": "gr4_sci_globe_sunlight",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_globe_sunlight.png",
       "explanation": "Earth is a sphere. Only one half faces the Sun at a time. When Florida faces the Sun, the opposite side (Japan) is in shadow.",
       "options": [
         "The Sun turns off its light for Japan.",
@@ -5210,7 +5210,7 @@
       "level": 3,
       "skillTag": "sedimentaryFormation",
       "text": "A geologist finds a rock made of distinct layers of sand, mud, and pebbles cemented together. How should she classify this rock?",
-      "imageResource": "gr4_sci_sedimentary_layers",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_sedimentary_layers.png",
       "explanation": "Sedimentary rocks are formed from layers of sediment (sand, mud, pebbles) that are pressed and cemented together over time.",
       "options": [
         "Igneous",
@@ -5230,7 +5230,7 @@
       "level": 3,
       "skillTag": "sedimentaryFormation",
       "text": "While hiking, Jason finds a rock containing a fossil of an ancient seashell. What kind of rock did Jason most likely find?",
-      "imageResource": "gr4_sci_rock_fossil",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_rock_fossil.png",
       "explanation": "Fossils are almost always found in sedimentary rock because the heat/pressure of other rock types would destroy the remains.",
       "options": [
         "Igneous",
@@ -5330,7 +5330,7 @@
       "level": 5,
       "skillTag": "errorAnalysisRocks",
       "text": "A student claims that a rock he found is igneous because it has distinct layers of mud and sand. Why is his claim likely incorrect?",
-      "imageResource": "gr4_sci_layered_rock",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_layered_rock.png",
       "explanation": "Layers of mud and sand are characteristic of sedimentary rocks (formed by sediment settling). Igneous rocks are formed from cooled melt and usually do not have these types of layers.",
       "options": [
         "He is correct; igneous rocks always have layers.",
@@ -5390,7 +5390,7 @@
       "level": 2,
       "skillTag": "mineralProperties",
       "text": "A geologist scrapes a mineral across a white porcelain plate to see the color of its powder. What property is being tested?",
-      "imageResource": "gr4_sci_streak_test",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_streak_test.png",
       "explanation": "The streak test involves rubbing a mineral on a plate to produce powder, which reveals its true color (streak).",
       "options": [
         "Cleavage",
@@ -5430,7 +5430,7 @@
       "level": 3,
       "skillTag": "mineralProperties",
       "text": "If a mineral breaks easily along smooth, flat surfaces, it is said to have:",
-      "imageResource": "gr4_sci_mineral_cleavage",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_mineral_cleavage.png",
       "explanation": "Cleavage is the tendency of a mineral to break along flat, even planes where atomic bonds are weak.",
       "options": [
         "Fracture",
@@ -5550,7 +5550,7 @@
       "level": 5,
       "skillTag": "multiStepReasoning",
       "text": "Mineral A scratches Mineral B. Mineral B scratches Mineral C. Which statement must be true?",
-      "imageResource": "gr4_sci_mohs_comparison",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_mohs_comparison.png",
       "explanation": "If A is harder than B, and B is harder than C, then A must be harder than C (transitive property of hardness).",
       "options": [
         "Mineral C is harder than Mineral A.",
@@ -5610,7 +5610,7 @@
       "level": 3,
       "skillTag": "evaluateEnergySources",
       "text": "A school wants to install energy panels on its roof to save money and use a renewable source. What type of energy are they likely planning to use?",
-      "imageResource": "gr4_sci_solar_panels_roof",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_solar_panels_roof.png",
       "explanation": "Solar panels are commonly placed on roofs to capture sunlight, which is a renewable resource.",
       "options": [
         "Geothermal energy",
@@ -5730,7 +5730,7 @@
       "level": 5,
       "skillTag": "evaluateEnergySources",
       "text": "A town builds a dam across a river to generate electricity. What is one positive and one negative effect of this decision?",
-      "imageResource": "gr4_sci_hydroelectric_dam",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_hydroelectric_dam.png",
       "explanation": "Hydropower provides clean energy (positive), but dams can disrupt river ecosystems and fish migration (negative).",
       "options": [
         "Positive: It uses fossil fuels. Negative: It is expensive.",
@@ -5790,7 +5790,7 @@
       "level": 2,
       "skillTag": "identifyWeathering",
       "text": "Tree roots growing into a crack in a sidewalk and causing it to break is an example of:",
-      "imageResource": "gr4_sci_roots_cracking_rock",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_roots_cracking_rock.png",
       "explanation": "The roots are physically breaking the rock (concrete) apart, which is physical weathering.",
       "options": [
         "Erosion",
@@ -5850,7 +5850,7 @@
       "level": 3,
       "skillTag": "identifyErosion",
       "text": "Which of the following is an example of erosion caused by wind?",
-      "imageResource": "gr4_sci_sand_dunes",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_sand_dunes.png",
       "explanation": "Wind picking up sand and moving it to create sand dunes is a classic example of wind erosion.",
       "options": [
         "Sunlight heating a rock until it cracks.",
@@ -5970,7 +5970,7 @@
       "level": 2,
       "skillTag": "identifyFlowerParts",
       "text": "Which part of the flower produces the pollen needed for reproduction?",
-      "imageResource": "gr4_sci_flower_diagram_stamen",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_flower_diagram_stamen.png",
       "explanation": "The stamen is the male part of the flower that produces pollen.",
       "options": [
         "Pistil",
@@ -5990,7 +5990,7 @@
       "level": 2,
       "skillTag": "lifeCycleStages",
       "text": "What is the process called when a seed begins to sprout and grow into a new plant?",
-      "imageResource": "gr4_sci_seed_germination",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_seed_germination.png",
       "explanation": "Germination is the specific term for when a seed starts to grow after a period of dormancy.",
       "options": [
         "Pollination",
@@ -6070,7 +6070,7 @@
       "level": 3,
       "skillTag": "identifyFlowerParts",
       "text": "In which part of the flower are the seeds actually produced and protected?",
-      "imageResource": "gr4_sci_flower_ovary",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_flower_ovary.png",
       "explanation": "The ovary is located at the bottom of the pistil. After fertilization, it swells to become the fruit and protects the developing seeds.",
       "options": [
         "The petals",
@@ -6110,7 +6110,7 @@
       "level": 3,
       "skillTag": "seedDispersal",
       "text": "Some seeds have tiny hooks or barbs on them. How does this structure help the plant reproduce?",
-      "imageResource": "gr4_sci_burr_seed",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_burr_seed.png",
       "explanation": "Hooks allow seeds to stick to the fur of passing animals, which carries the seeds to new locations (dispersal).",
       "options": [
         "It helps them absorb water.",
@@ -6210,7 +6210,7 @@
       "level": 3,
       "skillTag": "environmentalInfluence",
       "text": "Flamingos are born with grey feathers. However, adult flamingos are famous for being pink. What causes this change in their trait?",
-      "imageResource": "gr4_sci_flamingo_feeding",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_flamingo_feeding.png",
       "explanation": "The pink color comes from the carotene in the shrimp and algae that flamingos eat. This is an example of the environment (diet) affecting a trait.",
       "options": [
         "They inherit the pink color directly from their parents' DNA.",
@@ -6270,7 +6270,7 @@
       "level": 3,
       "skillTag": "environmentalInfluence",
       "text": "A hydrangea plant has blue flowers when planted in acidic soil. If you move it to soil that is not acidic, the flowers turn pink. This proves that:",
-      "imageResource": "gr4_sci_hydrangea_colors",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_hydrangea_colors.png",
       "explanation": "The flower color gene exists, but the expression of that color is controlled by an environmental factor (soil acidity).",
       "options": [
         "The plant is dying.",
@@ -6310,7 +6310,7 @@
       "level": 3,
       "skillTag": "environmentalInfluence",
       "text": "A tree growing on a windy cliff looks bent and twisted. A tree of the same species growing in a calm valley grows straight up. What factor affected the shape of the cliff tree?",
-      "imageResource": "gr4_sci_windswept_tree",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_windswept_tree.png",
       "explanation": "The constant force of the wind (environmental factor) physically altered the growth shape of the tree.",
       "options": [
         "The type of seed it came from",
@@ -6490,7 +6490,7 @@
       "level": 2,
       "skillTag": "animalAdaptationsSkins",
       "text": "What is the main purpose of camouflage for an animal?",
-      "imageResource": "gr4_sci_lizard_camouflage",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_lizard_camouflage.png",
       "explanation": "Camouflage allows an animal to blend in with its surroundings, making it harder for predators to see them or for them to sneak up on prey.",
       "options": [
         "To help the animal run faster.",
@@ -6510,7 +6510,7 @@
       "level": 3,
       "skillTag": "animalAdaptationsBeaks",
       "text": "A bird has a long, thin, needle-like beak. What type of food is this bird most likely adapted to eat?",
-      "imageResource": "gr4_sci_hummingbird_beak",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_hummingbird_beak.png",
       "explanation": "Long, thin beaks (like a hummingbird's) are adapted for reaching deep into flowers to sip nectar.",
       "options": [
         "Tearing meat from prey",
@@ -6530,7 +6530,7 @@
       "level": 3,
       "skillTag": "animalAdaptationsBeaks",
       "text": "A hawk has a sharp, curved, hook-shaped beak. How does this adaptation help it survive?",
-      "imageResource": "gr4_sci_hawk_beak",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_hawk_beak.png",
       "explanation": "Hooked beaks are characteristic of birds of prey (raptors) and are used to tear the flesh of the animals they catch.",
       "options": [
         "It helps dig for worms in the dirt.",
@@ -6550,7 +6550,7 @@
       "level": 3,
       "skillTag": "animalAdaptationsMouths",
       "text": "If you find a skull with large, flat molars (back teeth), what can you infer about the animal's diet?",
-      "imageResource": "gr4_sci_herbivore_teeth",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_herbivore_teeth.png",
       "explanation": "Flat teeth are adapted for grinding plant material (herbivore diet), whereas sharp teeth are for slicing meat.",
       "options": [
         "It was a carnivore that ate only meat.",
@@ -6590,7 +6590,7 @@
       "level": 3,
       "skillTag": "animalAdaptationsFeet",
       "text": "A frog and a duck both have webbed feet. How does this adaptation help them?",
-      "imageResource": "gr4_sci_webbed_feet",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_webbed_feet.png",
       "explanation": "Webbed feet act like paddles, pushing more water and allowing the animal to swim efficiently.",
       "options": [
         "It helps them climb trees.",
@@ -6630,7 +6630,7 @@
       "level": 3,
       "skillTag": "animalAdaptationsSkins",
       "text": "Polar bears have thick fur and a layer of blubber (fat) under their skin. In which environment would this adaptation be most useful?",
-      "imageResource": "gr4_sci_polar_bear",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_polar_bear.png",
       "explanation": "Thick fur and blubber provide insulation to keep the animal warm in extremely cold, freezing environments.",
       "options": [
         "A hot, dry desert",
@@ -6670,7 +6670,7 @@
       "level": 3,
       "skillTag": "animalAdaptationsSkins",
       "text": "The Viceroy butterfly looks almost exactly like the poisonous Monarch butterfly. How does this 'mimicry' help the Viceroy survive?",
-      "imageResource": "gr4_sci_butterfly_mimicry",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_butterfly_mimicry.png",
       "explanation": "By looking like a poisonous animal, predators avoid eating the Viceroy because they mistake it for the Monarch.",
       "options": [
         "It helps the Viceroy fly faster.",
@@ -6750,7 +6750,7 @@
       "level": 5,
       "skillTag": "multiStepReasoning",
       "text": "The Arctic Hare has white fur in the winter. If the Arctic climate warms up and the snow melts early, leaving brown ground exposed, what will happen to the hare?",
-      "imageResource": "gr4_sci_arctic_hare_contrast",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_arctic_hare_contrast.png",
       "explanation": "The white fur is an adaptation for snow. If the snow disappears, the white fur makes the hare stand out to predators, reducing its chance of survival.",
       "options": [
         "It will immediately turn brown to match the dirt.",
@@ -6770,7 +6770,7 @@
       "level": 2,
       "skillTag": "matchOffspring",
       "text": "A young animal has spotted fur and long ears. Which adult animal is most likely its parent?",
-      "imageResource": "gr4_sci_spotted_parent_match",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_spotted_parent_match.png",
       "explanation": "Offspring inherit physical traits like fur pattern and ear shape from their parents. The adult with spots and long ears is the match.",
       "options": [
         "An adult with stripes and short ears.",
@@ -6830,7 +6830,7 @@
       "level": 3,
       "skillTag": "evidenceAnalysis",
       "text": "A sea turtle hatches on the beach at night and immediately crawls toward the ocean. No parent is there to teach it. What does this evidence tell you?",
-      "imageResource": "gr4_sci_sea_turtle_hatchling",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_sea_turtle_hatchling.png",
       "explanation": "Since the turtle performs the action immediately after birth without being taught, the behavior must be inherited (instinct).",
       "options": [
         "Crawling to the ocean is a learned behavior.",
@@ -6890,7 +6890,7 @@
       "level": 3,
       "skillTag": "evidenceAnalysis",
       "text": "Young chimpanzees watch their mothers use sticks to fish for termites. Later, the young chimps try to do it themselves. This suggests that:",
-      "imageResource": "gr4_sci_chimp_tool_use",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_chimp_tool_use.png",
       "explanation": "The observation and imitation process indicates that using tools is a learned behavior, passed down through teaching/watching.",
       "options": [
         "Using tools is an inherited instinct.",
@@ -6930,7 +6930,7 @@
       "level": 3,
       "skillTag": "matchOffspring",
       "text": "Identify the parent of a caterpillar based on life cycle stages.",
-      "imageResource": "gr4_sci_butterfly_lifecycle_match",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_butterfly_lifecycle_match.png",
       "explanation": "A caterpillar is the larval stage of a butterfly (or moth). It matches the adult butterfly.",
       "options": [
         "A Frog",
@@ -7010,7 +7010,7 @@
       "level": 5,
       "skillTag": "errorAnalysisBehavior",
       "text": "A student claims, 'Ducklings follow their mother because they were taught to do it in school.' Why is this incorrect?",
-      "imageResource": "gr4_sci_ducklings_imprinting",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_ducklings_imprinting.png",
       "explanation": "Following the mother (imprinting) is an instinctual behavior that happens immediately after hatching; it is not 'taught' in a classroom setting.",
       "options": [
         "Ducklings don't go to school.",
@@ -7090,7 +7090,7 @@
       "level": 2,
       "skillTag": "animalLifeCycleDiagrams",
       "text": "What is the correct order of stages in a complete metamorphosis life cycle?",
-      "imageResource": "gr4_sci_complete_metamorphosis_stages",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_complete_metamorphosis_stages.png",
       "explanation": "The four stages are Egg, Larva (caterpillar), Pupa (chrysalis), and Adult.",
       "options": [
         "Egg -> Nymph -> Adult",
@@ -7150,7 +7150,7 @@
       "level": 3,
       "skillTag": "coniferLifeCycle",
       "text": "Florida Pine trees are non-flowering seed plants. How do they reproduce?",
-      "imageResource": "gr4_sci_pine_cones",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_pine_cones.png",
       "explanation": "Conifers (like pine trees) produce seeds inside cones rather than flowers.",
       "options": [
         "They produce seeds inside colorful flowers.",
@@ -7210,7 +7210,7 @@
       "level": 3,
       "skillTag": "animalLifeCycleDiagrams",
       "text": "Look at the diagram of a butterfly life cycle. Which stage is missing: Egg -> Larva -> ??? -> Adult.",
-      "imageResource": "gr4_sci_missing_pupa",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_missing_pupa.png",
       "explanation": "The stage between the larva (caterpillar) and the adult butterfly is the Pupa (or chrysalis).",
       "options": [
         "Nymph",
@@ -7350,7 +7350,7 @@
       "level": 3,
       "skillTag": "animalLifeCycleDiagrams",
       "text": "A dragonfly hatches from an egg into a water-dwelling nymph before becoming a winged adult. This is an example of:",
-      "imageResource": "gr4_sci_dragonfly_nymph",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/gr4_sci_dragonfly_nymph.png",
       "explanation": "The stages are Egg, Nymph, Adult. There is no pupa. This is incomplete metamorphosis.",
       "options": [
         "Complete metamorphosis",
