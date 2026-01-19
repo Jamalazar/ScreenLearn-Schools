@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "type": "TEXT",
@@ -9,12 +9,12 @@
       "benchmark": "ELA.4.V.1.1",
       "quarter": 1,
       "level": 2,
-      "text": "Type the word 'Beautiful' correctly.",
+      "text": "Type the word 'New timimg 1 min test. type test' correctly.",
       "imageResource": null,
       "explanation": "A helpful tip is: 'be-au-ti-ful'—it contains 'au' and ends with 'ful'.",
       "options": [],
       "correctIndex": 0,
-      "typingAnswer": "Beautiful",
+      "typingAnswer": "test",
       "questionID": "gr3_ela_0002"
     },
     {
@@ -61,4 +61,5 @@
       "questionID": "gr3_math_0001"
     }
   ]
+
 }
