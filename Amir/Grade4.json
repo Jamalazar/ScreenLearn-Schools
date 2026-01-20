@@ -1,5 +1,5 @@
 {
-  "version": 101,
+  "version": 102,
   "questions": [
     {
       "topic": "Math",
@@ -8294,6 +8294,557 @@
       "correctIndex": 0,
       "typingAnswer": "Honey",
       "questionID": "gr4_science_0146"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "What is a volcano?",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/volcano.png",
+      "articleTitle": "Volcanoes",
+      "articleBody": "A volcano is a mountain that opens downward to a pool of molten rock below the surface of the earth. When pressure builds up, eruptions occur. Eruptions can cause lateral blasts, lava flows, hot ash flows, mudslides, avalanches, falling ash and floods.",
+      "options": [
+        "A mountain",
+        "A valley",
+        "A river",
+        "A cloud"
+      ],
+      "correctIndex": 0,
+      "questionID": "gr5_reading_0026"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "What builds up to cause an eruption?",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/volcano.png",
+      "articleTitle": "Volcanoes",
+      "articleBody": "A volcano is a mountain that opens downward to a pool of molten rock below the surface of the earth. When pressure builds up, eruptions occur. Eruptions can cause lateral blasts, lava flows, hot ash flows, mudslides, avalanches, falling ash and floods.",
+      "options": [
+        "Water",
+        "Pressure",
+        "Wind",
+        "Ice"
+      ],
+      "correctIndex": 1,
+      "questionID": "gr5_reading_0024"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "What is below the surface of the earth in a volcano?",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/volcano.png",
+      "articleTitle": "Volcanoes",
+      "articleBody": "A volcano is a mountain that opens downward to a pool of molten rock below the surface of the earth. When pressure builds up, eruptions occur. Eruptions can cause lateral blasts, lava flows, hot ash flows, mudslides, avalanches, falling ash and floods.",
+      "options": [
+        "Molten rock",
+        "Gold",
+        "Water",
+        "Sand"
+      ],
+      "correctIndex": 0,
+      "questionID": "gr5_reading_0027"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "Which of these is NOT mentioned as caused by eruptions?",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/volcano.png",
+      "articleTitle": "Volcanoes",
+      "articleBody": "A volcano is a mountain that opens downward to a pool of molten rock below the surface of the earth. When pressure builds up, eruptions occur. Eruptions can cause lateral blasts, lava flows, hot ash flows, mudslides, avalanches, falling ash and floods.",
+      "options": [
+        "Floods",
+        "Lava flows",
+        "Snowstorms",
+        "Mudslides"
+      ],
+      "correctIndex": 2,
+      "questionID": "gr5_reading_0029"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "Volcanoes open downward to...",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/volcano.png",
+      "articleTitle": "Volcanoes",
+      "articleBody": "A volcano is a mountain that opens downward to a pool of molten rock below the surface of the earth. When pressure builds up, eruptions occur. Eruptions can cause lateral blasts, lava flows, hot ash flows, mudslides, avalanches, falling ash and floods.",
+      "options": [
+        "The sky",
+        "A pool of molten rock",
+        "The ocean",
+        "A cave"
+      ],
+      "correctIndex": 1,
+      "questionID": "gr5_reading_0023"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "Sharks have a skeleton made of...",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/shark_illustration.png",
+      "articleTitle": "Sharks: Kings of the Ocean",
+      "articleBody": "Sharks are fascinating creatures. Unlike most fish, sharks do not have bones. Their skeleton is made of cartilage, which is the same flexible material that your ears and nose are made of! Sharks also have multiple rows of teeth. When they lose a tooth, a new one spins forward to replace it.",
+      "options": [
+        "Bones",
+        "Cartilage",
+        "Metal",
+        "Wood"
+      ],
+      "correctIndex": 1,
+      "questionID": "gr5_reading_0022"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "What happens when a shark loses a tooth?",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/shark_illustration.png",
+      "articleTitle": "Sharks: Kings of the Ocean",
+      "articleBody": "Sharks are fascinating creatures. Unlike most fish, sharks do not have bones. Their skeleton is made of cartilage, which is the same flexible material that your ears and nose are made of! Sharks also have multiple rows of teeth. When they lose a tooth, a new one spins forward to replace it.",
+      "options": [
+        "It never grows back",
+        "It stops eating",
+        "A new one replaces it",
+        "It swims away"
+      ],
+      "correctIndex": 2,
+      "questionID": "gr5_reading_0025"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "Cartilage is the same material found in human...",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/shark_illustration.png",
+      "articleTitle": "Sharks: Kings of the Ocean",
+      "articleBody": "Sharks are fascinating creatures. Unlike most fish, sharks do not have bones. Their skeleton is made of cartilage, which is the same flexible material that your ears and nose are made of! Sharks also have multiple rows of teeth. When they lose a tooth, a new one spins forward to replace it.",
+      "options": [
+        "Legs",
+        "Ears and nose",
+        "Teeth",
+        "Hair"
+      ],
+      "correctIndex": 1,
+      "questionID": "gr5_reading_0020"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "Sharks are different from most fish because...",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/shark_illustration.png",
+      "articleTitle": "Sharks: Kings of the Ocean",
+      "articleBody": "Sharks are fascinating creatures. Unlike most fish, sharks do not have bones. Their skeleton is made of cartilage, which is the same flexible material that your ears and nose are made of! Sharks also have multiple rows of teeth. When they lose a tooth, a new one spins forward to replace it.",
+      "options": [
+        "They swim fast",
+        "They have no bones",
+        "They live in rivers",
+        "They are small"
+      ],
+      "correctIndex": 1,
+      "questionID": "gr5_reading_0021"
+    },
+    {
+      "type": "STORY",
+      "topic": "Reading",
+      "grade": "Grade 4",
+      "level": 3,
+      "quarter": 2,
+      "text": "What material allows a shark's skeleton to be flexible?",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/shark_illustration.png",
+      "articleTitle": "Sharks: Kings of the Ocean",
+      "articleBody": "Sharks are fascinating creatures. Unlike most fish, sharks do not have bones. Their skeleton is made of cartilage, which is the same flexible material that your ears and nose are made of! Sharks also have multiple rows of teeth. When they lose a tooth, a new one spins forward to replace it.",
+      "options": [
+        "Iron2",
+        "Cartilage2",
+        "Scales2",
+        "Plastic2"
+      ],
+      "correctIndex": 1,
+      "questionID": "gr5_reading_0028"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Hidden Map",
+      "articleBody": "Liam found an old, dusty map tucked inside a library book about pirates. The edges were burnt, and it smelled like salt water. A red X marked a spot near the old lighthouse on the cliff. Liam decided to call his best friend, Maya, to help him investigate. They grabbed flashlights and a shovel, hoping to find gold.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/map_adventure.png",
+      "text": "Where did Liam find the map?",
+      "options": [
+        "Inside a library book",
+        "Under his bed",
+        "In a treasure chest",
+        "At school"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0014"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Hidden Map",
+      "articleBody": "Liam found an old, dusty map tucked inside a library book about pirates. The edges were burnt, and it smelled like salt water. A red X marked a spot near the old lighthouse on the cliff. Liam decided to call his best friend, Maya, to help him investigate. They grabbed flashlights and a shovel, hoping to find gold.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/map_adventure.png",
+      "text": "What marked the special spot on the map?",
+      "options": [
+        "A red X",
+        "A blue circle",
+        "A golden star",
+        "A skull symbol"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0010"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Hidden Map",
+      "articleBody": "Liam found an old, dusty map tucked inside a library book about pirates. The edges were burnt, and it smelled like salt water. A red X marked a spot near the old lighthouse on the cliff. Liam decided to call his best friend, Maya, to help him investigate. They grabbed flashlights and a shovel, hoping to find gold.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/map_adventure.png",
+      "text": "Where was the X located?",
+      "options": [
+        "Near the old lighthouse",
+        "In the forest",
+        "Under a bridge",
+        "By the school playground"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0017"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Hidden Map",
+      "articleBody": "Liam found an old, dusty map tucked inside a library book about pirates. The edges were burnt, and it smelled like salt water. A red X marked a spot near the old lighthouse on the cliff. Liam decided to call his best friend, Maya, to help him investigate. They grabbed flashlights and a shovel, hoping to find gold.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/map_adventure.png",
+      "text": "Who did Liam call for help?",
+      "options": [
+        "Maya",
+        "His brother",
+        "His teacher",
+        "The police"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0018"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Hidden Map",
+      "articleBody": "Liam found an old, dusty map tucked inside a library book about pirates. The edges were burnt, and it smelled like salt water. A red X marked a spot near the old lighthouse on the cliff. Liam decided to call his best friend, Maya, to help him investigate. They grabbed flashlights and a shovel, hoping to find gold.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/map_adventure.png",
+      "text": "What tools did they bring?",
+      "options": [
+        "Flashlights and a shovel",
+        "A map and a compass",
+        "Food and water",
+        "Rope and a ladder"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0011"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Hidden Map",
+      "articleBody": "Liam found an old, dusty map tucked inside a library book about pirates. The edges were burnt, and it smelled like salt water. A red X marked a spot near the old lighthouse on the cliff. Liam decided to call his best friend, Maya, to help him investigate. They grabbed flashlights and a shovel, hoping to find gold.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/map_adventure.png",
+      "text": "What did the map smell like?",
+      "options": [
+        "Salt water",
+        "Old cheese",
+        "Fresh pine",
+        "Burnt wood"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0007"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Hidden Map",
+      "articleBody": "Liam found an old, dusty map tucked inside a library book about pirates. The edges were burnt, and it smelled like salt water. A red X marked a spot near the old lighthouse on the cliff. Liam decided to call his best friend, Maya, to help him investigate. They grabbed flashlights and a shovel, hoping to find gold.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/map_adventure.png",
+      "text": "What were they hoping to find?",
+      "options": [
+        "Gold",
+        "A secret cave",
+        "A time capsule",
+        "A sunken ship"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0012"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "What year does the story take place?",
+      "options": [
+        "2050",
+        "2020",
+        "3000",
+        "1999"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0013"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "What is the name of the Mars colony?",
+      "options": [
+        "Ares Base",
+        "Red Rock City",
+        "Luna Outpost",
+        "Mars Town"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0009"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "What is Dr. Aris Thorne's job?",
+      "options": [
+        "Head Botanist",
+        "Pilot",
+        "Doctor",
+        "Engineer"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0008"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "Why is it hard to grow plants on Mars?",
+      "options": [
+        "It is freezing and has thin air",
+        "It is too hot",
+        "There is too much water",
+        "The soil is purple"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0019"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "Where do the plants live?",
+      "options": [
+        "Inside a glass dome",
+        "In a dark cave",
+        "Outside on the ground",
+        "On a spaceship"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0016"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "Where did the alarm go off?",
+      "options": [
+        "Greenhouse 3",
+        "The Kitchen",
+        "The Bedroom",
+        "Greenhouse 1"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0015"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "What broke inside the greenhouse?",
+      "options": [
+        "The heating system",
+        "The water pipe",
+        "The glass roof",
+        "The door"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0003"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "What did Aris grab before running?",
+      "options": [
+        "His toolbox",
+        "His lunch",
+        "A spacesuit",
+        "A shovel"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0005"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "How much time did he have to fix it?",
+      "options": [
+        "Twenty minutes",
+        "One hour",
+        "Five minutes",
+        "Two days"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0002"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "What crop was growing in the greenhouse?",
+      "options": [
+        "Tomatoes",
+        "Potatoes",
+        "Corn",
+        "Strawberries"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0004"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "How did he fix the problem?",
+      "options": [
+        "He reconnected a power wire",
+        "He poured water on it",
+        "He replaced the battery",
+        "He closed the window"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0001"
+    },
+    {
+      "type": "STORY",
+      "grade": "Grade 4",
+      "topic": "Reading",
+      "articleTitle": "The Mars Garden",
+      "articleBody": "In the year 2050, humans built the first colony on Mars called 'Ares Base.' Dr. Aris Thorne was the head botanist, and his job was to grow food in the red Martian soil. It was difficult because Mars is freezing cold and has very thin air. To keep the plants alive, they lived inside a giant glass dome. One morning, a red alarm flashed in Greenhouse 3. The heating system had broken! Aris grabbed his toolbox and sprinted through the airlock. He knew he had only twenty minutes to fix the heater before the frost destroyed the colony's first crop of tomatoes. With shaking hands, he reconnected the power wire just in time. That night, the whole crew celebrated by eating a fresh salad, the first meal ever grown on another planet.",
+      "imageResource": "https://raw.githubusercontent.com/Jamalazar/ScreenLearn-Assets/main/mars_dome.png",
+      "text": "What did the crew eat to celebrate?",
+      "options": [
+        "A fresh salad",
+        "Pizza",
+        "Ice Cream",
+        "Space Paste"
+      ],
+      "correctIndex": 0,
+      "level": 3,
+      "quarter": 1,
+      "questionID": "gr5_reading_0006"
     }
   ]
 }
